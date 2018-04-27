@@ -10,6 +10,7 @@ Main requires 3 arguments specified by the user:
 - remote port number
 
 To use, complie the app using make and run the command:
+
 ./s-talk {local port number} {remote machine name} {remote port number}
 
 Ex.
