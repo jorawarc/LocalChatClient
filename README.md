@@ -7,9 +7,8 @@ The client uses UDP sockets to communicate between computers on a specified port
 - remote machine name
 - remote port number
 
-To use, complie the app using make and run the command:
-
-./s-talk {local port number} {remote machine name} {remote port number}
+# Use:
+`./s-talk {local port number} {remote machine name} {remote port number}`
 
 Ex.
-./s-talk 1000 localhost 2000
+`./s-talk 1000 localhost 2000`
